@@ -1,6 +1,6 @@
 {
 
-  "Version": "38",
+  "Version": "39",
 
   "ReleaseNotes": "Nova atualização Disponível!",
 
@@ -88,7 +88,7 @@
 
     {
 
-      "Name": "BR1 CloudLC testes",
+      "Name": "BR1 CloudLC",
 
       "TYPE": "",
 
